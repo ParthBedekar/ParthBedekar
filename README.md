@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Parth Bedekar</h1>
-<h3 align="center">Second Year B-Tech Computer Engineering | Open Source Enthusiast | AI Explorer</h3>
+<h3 align="center">Second Year B-Tech Computer Engineering | Open Source Enthusiast | Java Developer</h3>
 
 ---
 <p align="center">
