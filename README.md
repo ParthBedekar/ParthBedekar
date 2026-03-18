@@ -23,7 +23,7 @@ Passionate about building **robust systems, exploring data structures**, and mak
 
 **Current Focus:**  
 - Flutter & SpringBoot for full-stack app development  
-- Backend and Systems Programming usin C/C++ 
+- Backend and Systems Programming using C/C++ 
 - Advanced Java & data structures  
 
 
