@@ -9,8 +9,8 @@ I enjoy building **robust applications**, exploring **data structures**, and con
 
 Notable projects:
 - **Immutree** – An open-source Java library for Immutable Persistent Trees, published on Maven Central.  
-- **Music Streaming App** – A private, API-based streaming app built using Jetpack Compose.  
-- **Personal Finance Manager** – AI-powered budgeting app with real-time food pricing.  
+- **FoxMorph** – A legacy data migration framework migrating data from Microsoft Visual FoxPro 2009 to MySQL.  
+- **RipplerAST** – A Process Oriented Change Impact Analysis Engine utilizing Dependency Graph Modelling aimed at large Codebases.  
 
 Currently learning **Flutter, SpringBoot, and AI integration for real-world apps**. My goal is to **develop full-scale applications around novel and innovative ideas**, especially for my capstone project.
 
