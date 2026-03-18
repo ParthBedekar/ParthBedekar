@@ -1,86 +1,78 @@
-<h1 align="left">Hi, I'm Parth Bedekar — Developer & Open Source Enthusiast</h1>
+<h1 align="center">Hi, I'm Parth Bedekar</h1>
+<h3 align="center">Java & Flutter Developer | Open Source Enthusiast | AI Explorer</h3>
 
 ---
 
-### About Me
-I am a Computer Engineering student at **Vishwakarma Institute of Technology, Pune**, passionate about **Java, Flutter, and full-stack development**.  
-
-I enjoy building **robust applications**, exploring **data structures**, and contributing to **open-source projects**.  
-
-Notable projects:
-- **Immutree** – An open-source Java library for Immutable Persistent Trees, published on Maven Central.  
-- **FoxMorph** – A legacy data migration framework migrating data from Microsoft Visual FoxPro 2009 to MySQL.  
-- **RipplerAST** – A Process Oriented Change Impact Analysis Engine utilizing Dependency Graph Modelling aimed at large Codebases.  
-
-Currently learning **Flutter, SpringBoot, and AI integration for real-world apps**. My goal is to **develop full-scale applications around novel and innovative ideas**, especially for my capstone project.
-
----
-
-### My Digital Toolkit
-
-**Languages:** C, C++, Java, Dart, JavaScript  
-**Frameworks & Platforms:** Flutter, SpringBoot, Android Studio  
-**Databases:** MySQL, Firebase  
-**Web Technologies:** HTML5, CSS3, JavaScript  
-**Tools:** Git, GitHub, VS Code  
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
+<p align="center">
+  <a href="https://github.com/ParthBedekar">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/parthbedekar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://central.sonatype.com/artifact/io.github.parthbedekar/immutree">
+    <img src="https://img.shields.io/badge/Maven%20Central-007396?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### Notable Projects
+## 👨‍💻 About Me
+I am a **Computer Engineering student** at Vishwakarma Institute of Technology, Pune.  
+Passionate about building **robust applications, exploring data structures**, and contributing to **open-source projects**.  
 
-- **[Immutree](https://github.com/ParthBedekar/immutree)** – Immutable Persistent Trees library in Java, live on Maven Central.  
-- **Music Streaming App** – Private music streaming app for friends, using Jetpack Compose and APIs.  
-- **Personal Finance Manager** – AI-powered budgeting app with dynamic food and expense planning.  
-- **Capstone Project** – Developing a novel Flutter application with a unique concept.
+**Current Focus:**  
+- Flutter & SpringBoot for full-stack app development  
+- AI & ML integration for smarter applications  
+- Advanced Java & data structures  
 
----
-
-### Achievements
-
-- Published **Immutree** on Maven Central.  
-- Active contributor to open-source Java projects.  
-- Completed certifications in Flutter and Data Structures.  
+**Fun Fact:** I have been *“creating bugs since 2024”* and still love coding.
 
 ---
 
-### Currently Learning
+## 🛠️ Tech Stack
 
-- Advanced Flutter patterns & state management  
-- SpringBoot for backend APIs  
-- AI & ML integration for smarter applications
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" /> 
+</p>
 
 ---
 
-### Fun Facts
+## 🚀 Notable Projects
 
-- Creating bugs since 2024  
-- Believe: "C > C++"  
-- Coffee is my fuel for debugging marathons
+| Project | Description | Link |
+|--------|-------------|------|
+| **Immutree** | Open-source Java library for **Immutable Persistent Trees**, published on Maven Central | [GitHub](https://github.com/ParthBedekar/immutree) |
+| **FoxMorph** | Legacy **data migration framework** migrating data from **Microsoft Visual FoxPro 2009 to MySQL** | [GitHub](https://github.com/ParthBedekar/FoxMorph) |
+| **RipplerAST** | **Process-Oriented Change Impact Analysis Engine** using dependency graph modelling for **large codebases** | [GitHub](https://github.com/ParthBedekar/RipplerAST) |
 
 ---
 
-### Connect with Me
+## 🌟 Achievements
 
-[LinkedIn](https://www.linkedin.com/in/parthbedekar/) | [GitHub](https://github.com/ParthBedekar)
+- Published **Immutree** on Maven Central  
+- Active contributor to open-source Java projects  
+- Completed certifications in Flutter & Data Structures  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ParthBedekar&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthBedekar&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/parthbedekar/) | [GitHub](https://github.com/ParthBedekar) | [Maven Central](https://central.sonatype.com/artifact/io.github.parthbedekar/immutree)
