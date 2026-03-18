@@ -7,8 +7,8 @@
   <a href="https://github.com/ParthBedekar">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/in/parthbedekar/](https://www.linkedin.com/in/parth-bedekar-168003327/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+## 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/parth-bedekar-168003327/) | [GitHub](https://github.com/ParthBedekar) | [Maven Central](https://central.sonatype.com/artifact/io.github.parthbedekar/immutree)
   </a>
   <a href="https://central.sonatype.com/artifact/io.github.parthbedekar/immutree">
     <img src="https://img.shields.io/badge/Maven%20Central-007396?style=for-the-badge&logo=apachemaven&logoColor=white" />
