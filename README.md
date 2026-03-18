@@ -19,14 +19,14 @@
 
 ## 👨‍💻 About Me
 I am a **Computer Engineering student** at Vishwakarma Institute of Technology, Pune.  
-Passionate about building **robust applications, exploring data structures**, and contributing to **open-source projects**.  
+Passionate about building **robust systems, exploring data structures**, and making my computer **do cool stuff**.  
 
 **Current Focus:**  
 - Flutter & SpringBoot for full-stack app development  
-- AI & ML integration for smarter applications  
+- Backend and Systems Programming usin C/C++ 
 - Advanced Java & data structures  
 
-**Fun Fact:** I have been *“creating bugs since 2024”* and still love coding.
+
 
 ---
 
@@ -61,7 +61,7 @@ Passionate about building **robust applications, exploring data structures**, an
 
 - Published **Immutree** on Maven Central  
 - Active contributor to open-source Java projects  
-- Completed certifications in Flutter & Data Structures  
+ 
 
 ---
 
