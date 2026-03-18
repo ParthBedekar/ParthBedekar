@@ -14,10 +14,6 @@
   </a>
 </p>
 
-<p align="center">
-  ## 📫 Connect with Me  
-  [LinkedIn](https://www.linkedin.com/in/parth-bedekar-168003327/) | [GitHub](https://github.com/ParthBedekar) | [Maven Central](https://central.sonatype.com/artifact/io.github.parthbedekar/immutree)
-</p>
 
 ---
 
