@@ -65,14 +65,6 @@ Passionate about building **robust systems, exploring data structures**, and mak
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParthBedekar&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthBedekar&layout=compact&theme=radical" />
-</p>
-
----
 
 ## 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/parthbedekar/) | [GitHub](https://github.com/ParthBedekar) | [Maven Central](https://central.sonatype.com/artifact/io.github.parthbedekar/immutree)
